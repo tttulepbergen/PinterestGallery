@@ -40,6 +40,7 @@ A SwiftUI application that displays images in a Pinterest-style layout with infi
 
 ## Screenshots
 
-
-![Simulator Screenshot - iPhone 16 Pro - 2025-04-03 at 20 12 04](https://github.com/user-attachments/assets/ad59e87e-b8be-495e-80ea-d4bc5f32231b?raw=true&width=100)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c2fbc001-2c71-4f74-9a44-72fa9b24c805" width="300">
+</p>
 
